@@ -3,7 +3,9 @@
 
 Controls:
 Left Racket ->  W A S D
+
 Right Racket -> Up Left Down Right arrows
+
 Pause: P
 Restart: Esc
 Resume: R
