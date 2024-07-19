@@ -1,0 +1,4 @@
+--patch-module
+ie.mtu.pongproject=_
+--add-reads
+ie.mtu.pongproject=ALL-UNNAMED
