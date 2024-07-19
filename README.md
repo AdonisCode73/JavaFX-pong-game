@@ -1,6 +1,9 @@
 # JavaFX-pong-game
 2D pong application created using javaFX.
 
+To run, open a supported IDE, preferably IntelliJ and run JavaFX-pong-game/pongProject/src/main/java
+/pong/Main.java 
+
 Controls:
 Left Racket ->  W A S D
 
